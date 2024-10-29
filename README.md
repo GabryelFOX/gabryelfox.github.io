@@ -26,7 +26,7 @@ Aqui na **TACNET.BR**, você encontrará uma comunidade dedicada ao trabalho em 
 
 <details>
 
-<summary><strong>TACNET-BR DISCORD SERVER</strong></summary>
+<summary><strong>TACNET.BR DISCORD SERVER</strong></summary>
 
 [https://discord.gg/5fcP5SJ8pC](https://discord.gg/5fcP5SJ8pC)
 
