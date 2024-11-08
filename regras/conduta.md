@@ -78,14 +78,14 @@ description: Aqui está as nossas políticas mais recentes! [2024/25/10]
 
 * Promover desordem na Base Principal <mark style="color:orange;">**(atirar sem necessidade, jogar smokes, granadas, etc.)**</mark>&#x20;
 * Roubo de assets aliados <mark style="color:red;">(aplica-se a APC, TANK, CAS, TRANS)</mark>; <mark style="color:red;">**INFRAÇÂO MEDIA**</mark>
-* Destruição ou desperdício intencional ou acidental de assets aliados <mark style="color:red;">(APC, TANK, CAS, TRANS, LOGISTICO)</mark> devido à falta de identificação ou imperícia <mark style="color:red;">**INFRAÇÂO GRAVE**</mark>
+* Destruição ou desperdício intencional ou acidental de assets aliados <mark style="color:red;">(APC, TANK, CAS, TRANS, LOGISTICO)</mark> devido à falta de identificação ou imperícia.
 * Abandonar assets <mark style="color:red;">(APC, TANK, CAS, TRANS, Logi, Jeep, Truck, etc.)</mark> propositalmente no campo de batalha;
-* Destruir cache aliado de forma intencional <mark style="color:orange;">**\[**</mark><mark style="color:red;">**INFRAÇÂO GRAVE**</mark><mark style="color:orange;">**]**</mark>** ** <mark style="color:yellow;">**OBS:**</mark> <mark style="color:yellow;">A situação será investigada pela equipe ADMIN, e, se for comprovada a intencionalidade, haverá punição;</mark>
-* <mark style="color:orange;">**Marcar ou camperar FOB e hideout.**</mark>
+* Destruir cache aliado de forma intencional <mark style="color:orange;">**\[**</mark><mark style="color:red;">**INFRAÇÂO GRAVE**</mark><mark style="color:orange;">**]**</mark>** ** <mark style="color:yellow;">**OBS:**</mark> <mark style="color:yellow;">A situação será investigada pela equipe ADMIN</mark>
+* **Marcar ou camperar FOB e hideout.**
 
 <mark style="color:red;">**2.8**</mark>**- **<mark style="color:orange;">**\[**</mark><mark style="color:red;">**INFRAÇÂO GRAVE**</mark><mark style="color:orange;">**]**</mark>** É **<mark style="color:red;">**proibido o uso de qualquer trapaça ou artifício**</mark>** para evitar punições aplicadas anteriormente**
 
-<mark style="color:red;">**2.9**</mark>**- **<mark style="color:orange;">**\[**</mark><mark style="color:red;">**INFRAÇÂO MEDIA**</mark><mark style="color:orange;">**]**</mark>** O uso de glitches ou bugs que proporcionem vantagem ao jogador é proibido**
+<mark style="color:red;">**2.9**</mark>**- **<mark style="color:orange;">**\[**</mark><mark style="color:red;">**INFRAÇÂO MEDIA**</mark><mark style="color:orange;">**]**</mark>** O uso de glitches ou bugs que proporcionem vantagem ao jogador é proibido. (Em caso de HACKS **<mark style="color:red;">**ByeBye**</mark>**)**
 {% endhint %}
 
 ***
