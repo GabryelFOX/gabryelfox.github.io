@@ -50,7 +50,7 @@ description: Aqui está as nossas políticas mais recentes! [2024/25/10]
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">**1**</mark>- <mark style="color:orange;">**É proibido cometer teamkill (TK) intencional, não há justificativa plausível, mesmo no fim da partida**</mark>&#x20;
+<mark style="color:red;">**1.9**</mark>- <mark style="color:orange;">**É proibido cometer teamkill (TK) intencional, não há justificativa plausível, mesmo no fim da partida**</mark>&#x20;
 
 • <mark style="color:green;">**Caso ocorra um TK NÃO INTENCIONAL, imediatamente pedir desculpas**</mark>** **<mark style="color:orange;">**(sorry)**</mark>&#x20;
 
