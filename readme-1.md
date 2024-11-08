@@ -26,7 +26,7 @@ layout:
 
 > ### Olá, jogadores e entusiastas do **Project Reality**! É com grande entusiasmo que apresentamos a **TACNET.BR**, uma nova comunidade dedicada a oferecer uma experiência focada em táticas e trabalho em equipe. Nossa Equipe está de porta abertas para receber tanto novos jogadores como veteranos.
 
-_A Rede Tática Brasil pretende expandir seus servidores para demais jogos conforme a demanda. Claro não se preocupem esta comunidade está aqui para trazer mais diversão para a comunidade BR-ES <mark style="color:yellow;">(South America)</mark> Já para jogadores que estão próximo a <mark style="color:red;">(Europa)</mark> visite nossa afilial **\[TACNET.DE]** Fundada desde 2013 Presidente do grupo Tactical Network **@Guenix**_&#x20;
+_A Rede Tática Brasil pretende expandir seus servidores para demais jogos conforme a demanda. Claro não se preocupem esta comunidade está aqui para trazer mais diversão para a comunidades        <mark style="color:yellow;">(South America)</mark> Já para jogadores que estão próximo a <mark style="color:red;">(Europa)</mark> visite nossa afilial **\[TACNET.DE]** Fundada desde 2013 Presidente do grupo Tactical Network **@Guenix**_&#x20;
 
 <mark style="color:purple;">**TACNET.DE:**</mark>
 
