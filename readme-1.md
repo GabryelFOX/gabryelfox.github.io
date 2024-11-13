@@ -52,9 +52,9 @@ _A Rede Tática Brasil pretende expandir seus servidores para demais jogos confo
 
 {% tabs %}
 {% tab title="CS 1.6 Server" %}
-#### ![](<.gitbook/assets/image (16).png>)\[TACNET.BR] **Rede Tatica Brasil IP:**<mark style="color:green;">**168.75.99.81**</mark>PORT:<mark style="color:green;">**27439**</mark>** **<mark style="color:blue;">**(MANUTENÇÂO)**</mark>
+#### ![](<.gitbook/assets/image (16).png>)\[TACNET.BR] **Rede Tatica Brasil IP:**<mark style="color:green;">**168.75.99.81**</mark>PORT:<mark style="color:green;">**27439**</mark>**- **<mark style="color:blue;">**(MANUTENÇÂO)**</mark>
 
-![](<.gitbook/assets/image (19).png>)\[TACNET.BR] **Rede Tatica Brasil IP:**<mark style="color:green;">**103.88.232.169**</mark>**PORT:**<mark style="color:green;">**27035**</mark><mark style="color:blue;">**(ONLINE)**</mark>
+![](<.gitbook/assets/image (19).png>)\[TACNET.BR] **Rede Tatica Brasil IP:**<mark style="color:green;">**103.88.232.169**</mark>**PORT:**<mark style="color:green;">**27035**</mark>**- **<mark style="color:blue;">**(MANUTENÇÂO)**</mark>
 {% endtab %}
 
 {% tab title="Left 4 Dead 2 Server" %}
