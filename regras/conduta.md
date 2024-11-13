@@ -148,6 +148,10 @@ description: Aqui está as nossas políticas mais recentes! [2024/25/10]
 
 ## Regras dos Administradores in-game (Prévia Publico)
 
+{% hint style="success" %}
+Todos ADMINS online dentro do servidor.. Devem estar presentes na call da staff!
+{% endhint %}
+
 {% hint style="warning" %}
 <mark style="color:green;">**𝙄𝙢𝙥𝙖𝙧𝙘𝙞𝙖𝙡𝙞𝙙𝙖𝙙𝙚 𝙚 𝙉𝙚𝙪𝙩𝙧𝙖𝙡𝙞𝙙𝙖𝙙𝙚:**</mark> <mark style="color:yellow;">Os administradores devem ser 𝒊𝒎𝒑𝒂𝒓𝒄𝒊𝒂𝒊𝒔 em todas as decisões relacionadas ao servidor, independentemente de amizade ou afiliação com jogadores, ou clãs. Decisões sobre punições ou banimentos devem ser baseadas exclusivamente nas regras estabelecidas e com meios de provar tais atos.</mark>
 

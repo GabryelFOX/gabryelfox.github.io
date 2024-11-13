@@ -7,6 +7,10 @@ description: Rules Version from! [2024/25/10]
 
 ### **BEHAVIOR RULES:**&#x20;
 
+{% hint style="success" %}
+All ADMINS online within the server.. They must be present at the staff call!
+{% endhint %}
+
 <mark style="color:orange;">**1.1**</mark>**- Any pejorative, offensive, racist, or xenophobic expression is prohibited, whether through text, voice, nickname, or squad name.**
 
 **The use of words like **<mark style="color:red;">**"monkey," "boludo," "nigger,"**</mark>** etc., will be severely punished.**&#x20;
